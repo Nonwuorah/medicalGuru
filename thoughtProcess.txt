@@ -1,0 +1,18 @@
+- Navigation Bar: A clean navigation with logo, menu items, and sign-up/login buttons
+
+- Hero Section: Features a headline, description, call-to-action buttons, and a doctor image with floating stat cards
+
+- Statistics Section: Displays key metrics like 15K happy customers, 150K monthly visitors, etc.
+
+- Activity Section: Three cards highlighting key services with icons
+
+- Doctors Section: Features three doctor specialties with images, ratings, and pricing
+
+- Testimonials Section: Client reviews with 5-star ratings and profile images
+
+- Newsletter Section: Email subscription form with a light blue background
+
+- Footer: Comprehensive footer with multiple columns for company info, legal, features, and contact details
+
+- The design uses Bootstrap's responsive grid system, so it will look good on all device sizes. 
+  I've also added some custom CSS for styling elements like rounded corners, hover effects, and custom colors to match the design.
